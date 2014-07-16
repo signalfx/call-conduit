@@ -1,0 +1,32 @@
+{
+  "name": "call-conduit",
+  "version": "0.1.1",
+  "description": "Call Conduit programatically",
+  "main": "lib/createApi.js",
+  "dependencies": {
+    "q": "^1.0.1"
+  },
+  "scripts": {
+    "test": "exit 1"
+  },
+  "author": {
+    "name": "Ozan Turgut",
+    "email": "ozan@signalfuse.com",
+    "url": "http://ozan.io"
+  },
+  "licenses": [
+    {
+      "type": "Apache License 2.0",
+      "url": "https://github.com/signalfuse/call-conduit/blob/master/LICENSE-APACHE2"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/signalfuse/call-conduit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/signalfuse/call-conduit/issues"
+  },
+  "homepage": "https://github.com/signalfuse/call-conduit"
+}
+

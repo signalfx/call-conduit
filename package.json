@@ -1,6 +1,6 @@
 {
   "name": "call-conduit",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Call Conduit programatically",
   "main": "lib/createApi.js",
   "dependencies": {
